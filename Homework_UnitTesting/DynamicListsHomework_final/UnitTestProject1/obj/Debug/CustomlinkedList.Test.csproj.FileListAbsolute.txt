@@ -1,0 +1,7 @@
+E:\SoftUni\SoftUni\KPK\Homework_UnitTesting\DynamicListsHomework\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\SoftUni\SoftUni\KPK\Homework_UnitTesting\DynamicListsHomework\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\SoftUni\SoftUni\KPK\Homework_UnitTesting\DynamicListsHomework\UnitTestProject1\bin\Debug\DynamicList.dll
+E:\SoftUni\SoftUni\KPK\Homework_UnitTesting\DynamicListsHomework\UnitTestProject1\bin\Debug\DynamicList.pdb
+E:\SoftUni\SoftUni\KPK\Homework_UnitTesting\DynamicListsHomework\UnitTestProject1\obj\Debug\CustomlinkedList.Test.csprojResolveAssemblyReference.cache
+E:\SoftUni\SoftUni\KPK\Homework_UnitTesting\DynamicListsHomework\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\SoftUni\SoftUni\KPK\Homework_UnitTesting\DynamicListsHomework\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

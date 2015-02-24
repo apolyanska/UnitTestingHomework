@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLinkedList", "DynamicList\CustomLinkedList.csproj", "{AF3B2596-FF06-4E0A-8F7A-27BD1348D24C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomlinkedList.Test", "UnitTestProject1\CustomlinkedList.Test.csproj", "{602A90CD-1FD0-4239-B313-D63E7EA56A7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF3B2596-FF06-4E0A-8F7A-27BD1348D24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3B2596-FF06-4E0A-8F7A-27BD1348D24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3B2596-FF06-4E0A-8F7A-27BD1348D24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3B2596-FF06-4E0A-8F7A-27BD1348D24C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{602A90CD-1FD0-4239-B313-D63E7EA56A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602A90CD-1FD0-4239-B313-D63E7EA56A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602A90CD-1FD0-4239-B313-D63E7EA56A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602A90CD-1FD0-4239-B313-D63E7EA56A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
